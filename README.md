@@ -28,7 +28,5 @@ the Main method. There are also two test files CarDashKernelTest.java and
 CarDashAbstractTest.java which tests every method in the CarDashOnMap and
 CarDashSecondary files respectively.
 
-### Links
-
 [components-jar]: http://web.cse.ohio-state.edu/software/common/components.jar
 [jdk-downloads]: https://www.oracle.com/java/technologies/downloads/
